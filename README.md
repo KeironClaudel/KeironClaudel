@@ -19,7 +19,7 @@ Todo este conocimiento me permite combinar el desarrollo de software con un enfo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" style="vertical-align: middle;"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:keironclaudel@gmail.com">
+<a href="mailto:keironqc@gmail.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="50" height="50" style="vertical-align: middle;"/>
 </a>
 
