@@ -71,6 +71,3 @@ Todo este conocimiento me permite combinar el desarrollo de software con un enfo
 _(Próximamente)_
 
 ---
-
-💡 *"El código limpio es como el humor: cuando lo tienes que explicar, deja de ser bueno."* — **Cory House**
-
