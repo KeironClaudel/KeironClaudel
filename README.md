@@ -57,17 +57,30 @@ Todo este conocimiento me permite combinar el desarrollo de software con un enfo
 
 </div>
 
----
-
-### 📈 Mis estadísticas en GitHub
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KeironClaudel&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeironClaudel&layout=compact&theme=tokyonight" height="165"/>
-</div>
-
----
 
 ### 💼 Portafolio
-_(Próximamente)_
+
+---
+
+### 📊 SmartReports – Analytics & Insights API
+
+Sistema backend desarrollado en **.NET** para generar **insights automáticos a partir de datos de negocio**, permitiendo analizar métricas como crecimiento de ingresos, comportamiento de ventas y comparaciones entre periodos.
+
+🔹 **Tecnologías**
+- .NET Web API
+- C#
+- SQL Server
+- LINQ
+- Arquitectura Limpia (API, Application, Domain, Infrastructure)
+
+🔹 **Características**
+- Generación automática de insights de negocio
+- Comparación de periodos (ej: crecimiento de ingresos)
+- API para dashboards analíticos
+- Sistema de filtros por año para análisis de datos
+- Diseño orientado a escalabilidad
+
+🔗 **Repositorio:**  
+https://github.com/KeironClaudel/SmartReports
 
 ---
