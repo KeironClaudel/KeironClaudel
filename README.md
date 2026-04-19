@@ -1,17 +1,17 @@
-<!-- Encabezado principal-->
-<h1 align="center">¡Hola! 👋 Soy Keiron Claudel</h1>
-<h3 align="center">💻 Backend Developer | Data Analyst</h3>
+<!-- Main header -->
+<h1 align="center">Hi there! 👋 I'm Keiron Claudel</h1>
+<h3 align="center">💻 Web developer | Backend </h3>
 
 ---
 
-### 🚀 Sobre mí
-Soy desarrollador especializado en **backend, principalmente en entornos .NET**, y bases de datos **SQL Server** y **PostgreSQL**, con un conocimiento básico en JavaScript pero bajo aprendizaje y mejora continua de mis habilidades.<br>
+### 🚀 About Me
+I am a developer specialized in **backend development, mainly in .NET environments**, and databases such as **SQL Server** and **PostgreSQL**. I also have knowledge of JavaScript and I am continuously improving my skills in it.<br>
 <br>
-Por el lado del **Análisis de Datos** estoy familiarizado con Python junto a la libreria Pandas y con herramientas como Excel, PowerBI Básico y un poco de Machine Learning.
+On the **Data Analysis** side, I am familiar with Python and the Pandas library, as well as tools like Excel, Power BI, and some Machine Learning.
 
-Todo este conocimiento me permite combinar el desarrollo de software con un enfoque analítico para optimizar procesos y tomar decisiones basadas en datos.
+This combination allows me to bring together software development and an analytical mindset to optimize processes and make data-driven decisions.
 
-- 📍 Ubicación: Costa Rica
+- 📍 Location: Costa Rica
 
 <div align="center">
 
@@ -24,31 +24,38 @@ Todo este conocimiento me permite combinar el desarrollo de software con un enfo
 </a>
 
 </div>
-  
+
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 📈 GitHub Activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KeironClaudel&show_icons=true&theme=radical" alt="GitHub stats" />
+</div>
+
+---
+
+### 🛠️ Technologies and Tools
 <div align="center">
 
-**Backend Web**
+**Web Backend**
 <br>
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Análisis de datos**
+**Data Analysis**
 <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-**Bases de Datos**
+**Databases**
 <br>
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Herramientas**
+**Tools**
 <br>
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -57,30 +64,6 @@ Todo este conocimiento me permite combinar el desarrollo de software con un enfo
 
 </div>
 
+### 💼 Portfolio
 
-### 💼 Portafolio
-
----
-
-### 📊 SmartReports – Analytics & Insights API
-
-Sistema backend desarrollado en **.NET** para generar **insights automáticos a partir de datos de negocio**, permitiendo analizar métricas como crecimiento de ingresos, comportamiento de ventas y comparaciones entre periodos.
-
-🔹 **Tecnologías**
-- .NET Web API
-- C#
-- SQL Server
-- LINQ
-- Arquitectura Limpia (API, Application, Domain, Infrastructure)
-
-🔹 **Características**
-- Generación automática de insights de negocio
-- Comparación de periodos (ej: crecimiento de ingresos)
-- API para dashboards analíticos
-- Sistema de filtros por año para análisis de datos
-- Diseño orientado a escalabilidad
-
-🔗 **Repositorio:**  
-https://github.com/KeironClaudel/SmartReports
-
----
+https://keiron-portfolio.vercel.app
