@@ -15,13 +15,9 @@ This combination allows me to bring together software development and an analyti
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/keironclaudel" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" style="vertical-align: middle;"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:keironqc@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="50" height="50" style="vertical-align: middle;"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keironclaudel)
+[![Email](https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:keironqc@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://keiron-portfolio.vercel.app)
 
 </div>
 
@@ -29,7 +25,9 @@ This combination allows me to bring together software development and an analyti
 
 ### 📈 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KeironClaudel&show_icons=true&theme=radical" alt="GitHub stats" />
+
+[![Keiron's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KeironClaudel&theme=github-dark&hide_border=true&area=true)](https://github.com/KeironClaudel)
+
 </div>
 
 ---
